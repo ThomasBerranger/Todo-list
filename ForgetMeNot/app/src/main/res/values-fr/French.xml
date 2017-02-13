@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bloc Note</string>
+    <string name="add_task">Ajouter</string>
+    <string name="description">Que voulez-vous écrire ?</string>
+    <string name="done">Envoyer</string>
+
+    <string name="alert_title">Tâche :</string>
+    <string name="delete">Supprimer</string>
+    <string name="cancel">Retour</string>
+</resources>
